@@ -1,2 +1,2 @@
-info:
-	springcloud-prod
+cloud:
+info: springcloud-prod
